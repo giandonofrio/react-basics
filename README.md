@@ -8,4 +8,6 @@ This repository contains a collection of projects that I have created while lear
 
 - [ ] [Calculator](https://graceful-taffy-84e9b7.netlify.app/)
 
+- [ ] [Click Counter](https://gleaming-sawine-355a2c.netlify.app/)
+
 - [ ] [Choose Your Own Adventure](https://neon-melomakarona-53c09b.netlify.app)
